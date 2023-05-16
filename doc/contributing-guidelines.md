@@ -1,5 +1,5 @@
 ---
-description: 'CONTRIBUTORS GUIDE'
+description: "CONTRIBUTORS GUIDE"
 ---
 
 # ℹ Contributing guidelines
